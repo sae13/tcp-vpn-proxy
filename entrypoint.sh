@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo 1
 if [[ -z "${Password}" ]]; then
   Password="5c301bb8-6c77-41a0-a606-4ba11bbab084"
 fi
